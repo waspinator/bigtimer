@@ -1,0 +1,57 @@
+{
+  "name": "node-red-contrib-bigtimer",
+  "version": "1.6.8",
+  "description": "The ultimate Node-Red Timer with dusk, dawn (and variations), months, days, manual override, schedule pause, random or fixed offsets and much more.",
+  "dependencies": {
+    "suncalc": "1.*"
+  },
+  "homepage": "https://tech.scargill.net/big-timer/",
+  "license": "MIT",
+  "keywords": [
+    "node-red",
+    "bigtimer",
+    "scargill",
+    "timer",
+    "timers",
+    "scheduling",
+    "schedule",
+    "scheduler"
+  ],
+  "node-red": {
+    "nodes": {
+      "bigtimer": "bigtimer.js"
+    }
+  },
+  "author": {
+    "name": "Peter Scargill",
+    "email": "pete@scargill.org",
+    "url": "https://tech.scargill.net"
+  },
+  "_id": "node-red-contrib-bigtimer@1.6.8",
+  "scripts": {},
+  "_shasum": "780a6810b84410adcd43606a9de2eff8333fd02a",
+  "_from": "node-red-contrib-bigtimer@latest",
+  "_npmVersion": "3.8.6",
+  "_nodeVersion": "5.12.0",
+  "_npmUser": {
+    "name": "scargill",
+    "email": "pete@scargill.org"
+  },
+  "dist": {
+    "shasum": "780a6810b84410adcd43606a9de2eff8333fd02a",
+    "tarball": "https://registry.npmjs.org/node-red-contrib-bigtimer/-/node-red-contrib-bigtimer-1.6.8.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "scargill",
+      "email": "pete@scargill.org"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/node-red-contrib-bigtimer-1.6.8.tgz_1499799175404_0.46367160393856466"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/node-red-contrib-bigtimer/-/node-red-contrib-bigtimer-1.6.8.tgz",
+  "readme": "ERROR: No README data found!"
+}
